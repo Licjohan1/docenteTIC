@@ -1,34 +1,40 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>SER DOCENTE TIC EN LA PANDEMIA</title>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<meta name="author" content="Johan Mauricio Guerrero Miguez" />
-<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
-<meta name="generator" content="eXeLearning 2.5 - exelearning.net" />
-<meta name="description" content="Esta capsula pretende servir como insumo para reflexionar sobre los elementos que circundan la educación virtual en medio de la pandemia. Trataremos algunos referentes sobre la formación docente en TIC y los retos que ello supone en nuestro país, a la vez que revisaremos algunos elementos puntuales sobre el manejo informático y la gestión de nuestras clases. " />
-<link rel="stylesheet" type="text/css" href="base.css" />
-<link rel="stylesheet" type="text/css" href="content.css" />
-<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
-<script type="text/javascript" src="exe_jquery.js"></script>
-<script type="text/javascript" src="common_i18n.js"></script>
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
     </head>
-<body class="exe-single-page"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-0"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
-<header id="header">
-<div id="headerContent">
-<h1>SER DOCENTE TIC EN LA PANDEMIA</h1>
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">SER DOCENTE TIC EN LA PANDEMIA</div></header>
+<nav id="siteNav">
+<ul>
+   <li id="active"><a href="index.html" class="active daddy main-node">Home</a></li>
+   <li><a href="tabla_de_contenido.html" class="no-ch">Tabla de contenido</a></li>
+   <li><a href="introduccin.html" class="no-ch">Introducción</a></li>
+   <li><a href="tema_1_que_significa_educar_en_medio_de_la_pandemia.html" class="daddy">Tema 1: ¿Que significa educar en medio de la pandemia?</a>
+   <ul class="other-section">
+      <li><a href="tema_1_actividad.html" class="no-ch">Tema 1: Actividad</a></li>
+      <li><a href="tema_1_evaluacin.html" class="no-ch">Tema 1: Evaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="tema_2_primeros_pasos_docente_tic.html" class="daddy">Tema 2: Primeros pasos, docente TIC</a>
+   <ul class="other-section">
+      <li><a href="tema_2_actividad_y_evaluacin.html" class="no-ch">Tema 2: Actividad y Evaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="glosario.html" class="no-ch">Glosario</a></li>
+   <li><a href="crditos.html" class="no-ch">Créditos</a></li>
+   <li><a href="sobre_el_autor.html" class="no-ch">Sobre el autor</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="tabla_de_contenido.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
 </div>
-</header>
+<div id="main-wrapper">
 <section id="main">
-<article class="node level-1-node" id="exe-node-0">
-<header class="nodeDecoration">
-<h1 id="exenode_0_Home" class="nodeTitle">Home</h1>
-</header>
-<article class="iDevice_wrapper textIdevice" id="id1-0">
+<header id="nodeDecoration"><h1 id="nodeTitle">Home</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id1">
 <div class="iDevice emphasis0" >
 <div id="ta1_109_2" class="block iDevice_content">
 <div class="exe-text"><div class="canva-embed" data-design-id="DAEF6Zm6O9Y" data-height-ratio="0.3805" style="padding: 38.0488% 5px 5px 5px; background: rgba(0,0,0,0.03); border-radius: 8px;"></div>
@@ -38,29 +44,15 @@
 </div>
 </div>
 </article>
-</article>
-<article class="node level-2-node" id="exe-node-16">
-<header class="nodeDecoration">
-<h1 id="exenode_16_Tabladecontenido" class="nodeTitle">Tabla de contenido</h1>
-</header>
-<article class="iDevice_wrapper textIdevice" id="id6-16">
-<div class="iDevice emphasis0" >
-<div id="ta6_112_2" class="block iDevice_content">
-<div class="exe-text"><p><img src="logo3.png" alt="" width="54" height="50" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<h3 style="text-align: center;">Capsula de conocimiento libre: SER DOCENTE TIC </h3>
-<ul style="list-style-type: circle;">
-<li>
-<p><a href="#exenode_7_Introduccin">Introducción</a></p>
-</li>
-<li>
-<p><a href="#exenode_11_Tema1Quesignificaeducarenmediodelapandemia">Tema 1:</a></p>
-<ul style="list-style-type: circle;">
-<li>
-<p><a href="#exenode_17_Tema1Actividad">Actividad Tema 1:</a></p>
-</li>
-<li>
-<p><a href="#exenode_17_Tema1Actividad">Evaluación Tema 1:</a></p>
-</li>
-</ul>
-</li>
-<li>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="tabla_de_contenido.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+</div>
+<script type="text/javascript" src="_style_js.js"></script></body></html>
